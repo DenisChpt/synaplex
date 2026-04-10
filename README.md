@@ -70,7 +70,7 @@ The Mapper implementation provides a basic pipeline for topological graph summar
 ### From Source
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/DenisChpt/synaplex.git
 cd synaplex
 
 # With uv (recommended)
